@@ -6,3 +6,4 @@
 nginx
 bitnami/redis
 mysql:8.0.37
+wordpress
