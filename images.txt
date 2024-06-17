@@ -5,3 +5,4 @@
 # --platform=linux/arm64 xiaoyaliu/alist
 nginx
 bitnami/redis
+mysql:8.0.37
